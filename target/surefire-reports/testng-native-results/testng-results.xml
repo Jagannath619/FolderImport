@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="31" started-at="2016-09-21T21:40:44Z" finished-at="2016-09-21T21:40:44Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="31" started-at="2016-09-21T21:40:44Z" finished-at="2016-09-21T21:40:44Z">
+      <class name="com.test.mavenTest.RandomTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.test.mavenTest.RandomTest@155e508]" name="run" duration-ms="16" started-at="2016-09-22T03:10:44Z" finished-at="2016-09-22T03:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.test.mavenTest.RandomTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

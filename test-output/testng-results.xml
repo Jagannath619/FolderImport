@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70" started-at="2016-09-21T19:50:06Z" finished-at="2016-09-21T19:50:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70" started-at="2016-09-21T19:50:06Z" finished-at="2016-09-21T19:50:06Z">
+      <class name="com.test.mavenTest.App">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.test.mavenTest.App@197cf78]" name="run" duration-ms="24" started-at="2016-09-22T01:20:06Z" finished-at="2016-09-22T01:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.test.mavenTest.App -->
+      <class name="com.test.mavenTest.RandomTest">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.test.mavenTest.RandomTest@d77f83]" name="run" duration-ms="5" started-at="2016-09-22T01:20:06Z" finished-at="2016-09-22T01:20:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.test.mavenTest.RandomTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
