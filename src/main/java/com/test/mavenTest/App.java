@@ -6,11 +6,11 @@ import org.testng.annotations.Test;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     @Test
 	public static void run()
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Hello World!--Bye Bye" );
     }
 }
